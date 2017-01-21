@@ -10,6 +10,7 @@ namespace HelloWorldGitHub
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello world GitHub!");
+            Console.WriteLine("I add a line");
         }
     }
 }
